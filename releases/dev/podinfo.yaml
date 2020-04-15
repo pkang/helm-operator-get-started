@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: pkang/podinfo
-      tag: dev-fkwgdzw5
+      tag: dev-g2leert4
     replicaCount: 1
     hpa:
       enabled: false
